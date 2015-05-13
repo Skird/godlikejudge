@@ -1,0 +1,144 @@
+table
+{
+   /* width: 800px; */
+   width: 90%;
+}
+
+table, td, th
+{
+   border:1px solid black;
+   border-collapse:collapse;
+   text-align:left;
+}
+th
+{
+   background-color:black;
+   color:white;
+}
+
+.mbutt {  
+    background: #000000; /* Цвет фона */
+    padding: 1px 15px; /* Поля вокруг текста */
+    font-size: 10px; /* Размер шрифта */ 
+    font-weight: bold; /* Насыщенность шрифта */
+    color: #FFFFFF; /* Цвет шрифта */
+    text-align: center; /* Надпись на кнопке по центру */
+    border: solid 1px #000000; /* Параметры рамки кнопки */ 
+}
+
+form
+{
+   padding-top:0px;
+   padding-bottom:0px;
+   padding-right:1px;
+   padding-left:1px;
+   margin-top:0px;
+   margin-bottom:0px;
+   margin-right:1px;
+   margin-left:1px;
+}
+
+p
+{
+   padding-top:1px;
+   padding-bottom:1px;
+   padding-right:1px;
+   padding-left:1px;
+   margin-top:1px;
+   margin-bottom:1px;
+   margin-right:1px;
+   margin-left:1px;
+}
+
+a 
+{
+   text-decoration: underline;
+}
+a:link 
+{
+   color: black;
+}
+a:visited 
+{
+   color: black;
+}
+a:active 
+{
+   color: black;
+}
+a:hover 
+{
+   color: black;
+}
+.ok 
+{
+   background-color:#FFFFFF;    
+   color:#00FF00;
+   text-stype:solid;
+}
+.crash
+{
+   background-color:#FFFFFF;
+   color:#FF0000;
+}
+.wa
+{
+   background-color:#FFFFFF;
+   color:#FF0000;
+}
+.fail
+{           
+   background-color:#FFFFFF;
+   color:#FF0000;
+}
+.re
+{
+   background-color:#FFFFFF;
+   color:#FF0000;          
+}
+.tl
+{
+   background-color:#FFFFFF;
+   color:#FF0000;
+}
+
+.ml
+{
+   background-color:#FFFFFF;
+   color:#5A009D;
+}
+
+.pc
+{
+   background-color:#FFFFFF;
+   color:#FF5300;
+}
+
+.panel
+{
+   /* width: 800px; */
+   width:90%;
+   border-style: double;
+   border-collapse: collapse;
+   margin-top:3px;
+   margin-bottom:3px;
+   margin-right:3px;
+   margin-left:3px;
+}
+
+.error
+{
+   border: double;
+   font-weight: bold;
+   color: red;
+}
+
+.menuoption
+{
+   text-align: center;
+}
+
+.menuoption:hover
+{
+   background-color: yellow;
+}

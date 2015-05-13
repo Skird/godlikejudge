@@ -1,0 +1,9 @@
+problems: editor, tem, model, melody, set, four-palindrome, greedy, exclusive-knapsack
+show_scores: 1
+show_results: 1
+show_monitor: 1
+token_regeneration: 1
+start_time: 0
+duration: 1800000
+access: publi0
+upsolving: 
