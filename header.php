@@ -17,11 +17,6 @@
         else print "[running]";
 ?>
       </div>
-<?
-         //checking time segment
-         $time_str = file_get_contents("data/times");
-         $time_arr = explode(" ", $time_str);
-?>
       <div>
          Time elapsed: [<? echo (int)((time() - $contest_start) / 60); ?>m <? echo (time() - $contest_start) % 60; ?>s]
       </div>
