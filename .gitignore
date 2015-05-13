@@ -1,0 +1,10 @@
+data/sandbox/
+data/submissions/
+data/tokens/
+data/clars/
+data/log.txt
+*.log
+data/runner
+data/tester
+data/judge
+data/testing

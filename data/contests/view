@@ -1,0 +1,9 @@
+problems: alliances, aplusb, arithmeticrect, automaton, award, barns, bodyguards, brackets, bushytree, calendar, camelot, cap, chessboard, cinema, color, cross, cyoa, dom, f7, fire, four-palindrome, goodstrings, highways, hungarygames, koncert, kosharik, ksum, list, ljubomora, mars, matan, melody, mhocskian, mobile, model, mp3player, mutation, oddcut, olympair, painter, palindromic, path, peaks, pin, pool, primesum, rhombe, roi, rot, roz, samplesize, segments, set, snaga, sort, stones, string, tem, tetris, tiny, tower, windsofwar, patrik, kolekcija, two-segments
+show_scores: 1
+show_results: 1
+show_monitor: 0
+token_regeneration: 1800
+start_time: 1392182100
+duration: 18000
+access: private
+upsolving: 
