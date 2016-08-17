@@ -49,7 +49,7 @@ int compilePascalCode(int id)
       cerr << "Unable to copy file to sandbox" << endl;
       exit(_fail);
    }
-   string cmd = "fpc -dOLINE_JUDGE -So -XS -O2 ./sandbox/main.pas "
+   string cmd = "fpc -dONLINE_JUDGE -So -XS -O2 ./sandbox/main.pas "
               "> ./submissions/" + itos(id) + ".compilationReport 2>&1 ";
    int res = system(cmd.c_str());
    system("rm -f ./sandbox/main.pas");
